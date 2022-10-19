@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ricardo, a Software Developer 👨‍💻 working since 2021 🚀</div>  
+### <div align="center">I'm Ricardo, a Software Developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [ioet Inc.](https://www.ioet.com/)  
+- 🔭 I’m currently working at [ioet Inc.](https://www.ioet.com/)  
   
 
 - 🌱 I’m currently learning Clean Architectures, Testing and some DevOps things  
