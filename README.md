@@ -6,13 +6,13 @@
 ### <div align="center">I'm Ricardo, a Software Developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working at [ioet Inc.](https://www.ioet.com/)  
+- 🔭 I’m currently working as a Software Engineer (Mid Level).
   
 
 - 🌱 I’m currently learning Clean Architectures, Testing and some DevOps things  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript, TypeScript, React ecosystem, NodeJS, Python and related technologies  
   
 
 <br/>  
