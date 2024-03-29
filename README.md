@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ricardo, a Software Developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working as a Software Engineer (Mid Level).
+- 🔭 I’m currently working as a Software Engineer.
   
 
 - 🌱 I’m currently learning Clean Architectures, Testing and some DevOps things  
