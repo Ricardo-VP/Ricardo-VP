@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="352" viewBox="0 0 1280 352" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Ricardo Vaca — Senior Full-Stack Engineer</title>
+  <desc id="banner-desc">A light profile banner with Ricardo Vaca's name, role, Frontend. Backend. Cloud. tagline, and Ecuador location. Three connected abstract layers represent user interfaces, APIs, and cloud infrastructure.</desc>
+  <defs>
+    <radialGradient id="ambient" cx="81%" cy="48%" r="57%">
+      <stop offset="0" stop-color="#d9f3ee"/>
+      <stop offset="1" stop-color="#f4f8fa"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="350" rx="24" fill="#f4f8fa" stroke="#d8e5eb" stroke-width="2"/>
+  <rect x="2" y="2" width="1276" height="348" rx="23" fill="url(#ambient)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="65" fill="#526d7b" font-size="13" font-weight="600" letter-spacing="2.5">ECUADOR / UTC-5</text>
+    <text x="60" y="145" fill="#102a36" font-size="62" font-weight="700" letter-spacing="-2">Ricardo Vaca</text>
+    <text x="64" y="195" fill="#365462" font-size="28" font-weight="500" letter-spacing="-.3">Senior Full-Stack Engineer</text>
+    <text x="64" y="245" fill="#087f83" font-size="25" font-weight="500" letter-spacing=".1">Frontend. Backend. Cloud.</text>
+  </g>
+  <path d="M64 280H124" fill="none" stroke="#138e8b" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#319d98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1044 126V136H1012V146"/>
+    <path d="M1012 206V216H1044V226"/>
+  </g>
+  <g fill="#138e8b">
+    <circle cx="1028" cy="136" r="3"/>
+    <circle cx="1028" cy="216" r="3"/>
+  </g>
+  <g>
+    <rect x="910" y="69" width="272" height="60" rx="13" fill="#0b4c55" opacity=".05"/>
+    <rect x="908" y="66" width="272" height="60" rx="13" fill="#ffffff" stroke="#c5dedf" stroke-width="1.5"/>
+    <rect x="878" y="149" width="272" height="60" rx="13" fill="#0b4c55" opacity=".05"/>
+    <rect x="876" y="146" width="272" height="60" rx="13" fill="#ffffff" stroke="#c5dedf" stroke-width="1.5"/>
+    <rect x="910" y="229" width="272" height="60" rx="13" fill="#0b4c55" opacity=".05"/>
+    <rect x="908" y="226" width="272" height="60" rx="13" fill="#ffffff" stroke="#c5dedf" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="#168e8c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="932" y="81" width="80" height="30" rx="5" fill="#edf9f6"/>
+    <path d="M932 92H1012" stroke="#7fc4bd"/>
+    <path d="M916 176L941 163L966 176L941 189Z"/>
+    <path d="M916 176H966M941 163V189" stroke="#7fc4bd"/>
+    <path d="M951 270H998C1007 270 1013 264 1013 256C1013 249 1008 243 1001 242C997 229 980 229 973 241C963 237 952 244 951 253C939 253 938 270 951 270Z" fill="#edf9f6"/>
+  </g>
+  <g fill="#168e8c">
+    <circle cx="939" cy="86.5" r="1.5"/>
+    <circle cx="945" cy="86.5" r="1.5"/>
+    <circle cx="951" cy="86.5" r="1.5"/>
+    <circle cx="916" cy="176" r="4.5"/>
+    <circle cx="941" cy="163" r="4.5"/>
+    <circle cx="966" cy="176" r="4.5"/>
+    <circle cx="941" cy="189" r="4.5"/>
+  </g>
+  <g fill="#bdd6dc">
+    <rect x="1040" y="86" width="104" height="4" rx="2"/>
+    <rect x="1040" y="101" width="74" height="4" rx="2"/>
+    <rect x="996" y="166" width="118" height="4" rx="2"/>
+    <rect x="996" y="181" width="80" height="4" rx="2"/>
+    <rect x="1040" y="246" width="104" height="4" rx="2"/>
+    <rect x="1040" y="261" width="65" height="4" rx="2"/>
+  </g>
+</svg>
