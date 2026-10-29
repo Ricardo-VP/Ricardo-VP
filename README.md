@@ -8,7 +8,7 @@
 
 **I build complete digital products, from the interface to production.**
 
-I'm a software engineer based in Ecuador, with experience since 2020 building and improving web applications, mobile features, backend services, and cloud infrastructure. I work with distributed teams across the full delivery cycle: understanding requirements, implementing features, testing, deploying, and supporting production systems.
+I'm a software engineer based in Ecuador, with experience since 2019 building and improving web applications, mobile features, backend services, and cloud infrastructure. I work with distributed teams across the full delivery cycle: understanding requirements, implementing features, testing, deploying, and supporting production systems.
 
 [LinkedIn](https://www.linkedin.com/in/ricardo-vp/) · [Email](mailto:ricardo.vacape@gmail.com) · [Public repositories](https://github.com/Ricardo-VP?tab=repositories)
 
