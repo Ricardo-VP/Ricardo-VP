@@ -1,101 +1,37 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" alt="Ricardo Vaca — Senior Full-Stack Engineer. Frontend, backend, and cloud. Based in Ecuador." width="100%">
+</picture>
 
-### <div align="center">I'm Ricardo, a Software Developer 👨‍💻🚀</div>  
-  
+<br>
+<br>
 
-- 🔭 I’m currently working as a Software Engineer.
-  
+**I build complete digital products, from the interface to production.**
 
-- 🌱 I’m currently learning Clean Architectures, Testing and some DevOps things  
-  
+I'm a software engineer based in Ecuador, with experience since 2020 building and improving web applications, mobile features, backend services, and cloud infrastructure. I work with distributed teams across the full delivery cycle: understanding requirements, implementing features, testing, deploying, and supporting production systems.
 
-- ❓ Ask me about anything related to JavaScript, TypeScript, React ecosystem, NodeJS, Python and related technologies  
-  
+[LinkedIn](https://www.linkedin.com/in/ricardo-vp/) · [Email](mailto:ricardo.vacape@gmail.com) · [Public repositories](https://github.com/Ricardo-VP?tab=repositories)
 
-<br/>  
+## What I bring to a product
 
+- **Frontend & mobile:** interfaces and complete user flows with React, Next.js, and React Native.
+- **Backend & integrations:** APIs, data models, third-party services, and asynchronous workflows.
+- **Cloud & delivery:** AWS infrastructure, automated deployments, tests, and production support.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+My professional work includes automotive services, supply-chain platforms, institutional intranets, assistance coordination, and agricultural software.
 
+## Tools I work with
 
+| Area | Technologies |
+| :--- | :--- |
+| Frontend & mobile | TypeScript · React · Next.js · React Native |
+| Backend & data | Node.js · Python · FastAPI · PostgreSQL |
+| Cloud & delivery | AWS · Terraform · Docker · GitHub Actions |
+| Architecture & quality | Clean Architecture · REST APIs · Jest · Playwright |
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-</div>
+## Let's connect
 
-</td><td valign="top" width="33%">
+For product development, technical collaboration, or project inquiries, reach me on [LinkedIn](https://www.linkedin.com/in/ricardo-vp/) or by [email](mailto:ricardo.vacape@gmail.com).
 
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Ricardo-VP" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ricardo-vp/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ricardo-VP&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**Ecuador · UTC−5 · English / Español**
