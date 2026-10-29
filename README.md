@@ -1,12 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" alt="Ricardo Vaca — Senior Full-Stack Engineer. Frontend, backend, and cloud. Based in Ecuador." width="100%">
-</picture>
-
-<br>
-<br>
-
 **I build complete digital products, from the interface to production.**
 
 I'm a software engineer based in Ecuador, with experience since 2020 building and improving web applications, mobile features, backend services, and cloud infrastructure. I work with distributed teams across the full delivery cycle: understanding requirements, implementing features, testing, deploying, and supporting production systems.
